@@ -1,0 +1,23 @@
+Sa se afiseze si sa se numere elementele aflate in intervalul a,b dintr-un arbore binar
+
+Concatenarea a doua liste dublu inlantuite.
+a) Ciirculare pe un sens
+b) Circulare pe ambele sensuri
+
+Se da o lista simplu inlantuita 
+
+a->b->a->c->c->d->b
+
+Se cere sa se construiasca un vector de liste altfel:
+
+a:1->3/
+b:2->7/
+c:4->5/
+d:6\
+
+Deci vectorul are atatea intrari cate elemente chei distince posibile exista in lista. Pe fiecare intrare se inlantuie pozitiile corespunzatoare chei respective in lista initiala.
+
+Sa se inverseze elementele unui cozi, pe loc, fara copiere
+
+
+sa poti sa te conectezi la contul de google drive si sa-ti preia de acolo imaginile
